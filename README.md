@@ -1,2 +1,3 @@
-运行makeTxt.py和voc_label.py
-运行train.py文件
+1、makeTxt.py
+2、voc_label.py
+3、train.py文件
